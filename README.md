@@ -5,7 +5,7 @@ The assignment was to refractor code for an existing company website. To make su
 
 ## The inital webpage
 This is what the inital webpage looked like:
-![Image of Inital Webpage] (file:///Users/ffejcaplan/Desktop/Screen%20Shot%202020-04-04%20at%203.44.05%20PM.png)
+![Image of Inital Webpage](https://github.com/ffejcaplan/01_HW/blob/master/Original.png)
 
 ### My Step-by-Step
 1. I started by creating a reset.css and and a style.css stylesheets
@@ -14,3 +14,5 @@ This is what the inital webpage looked like:
 1. I then fixed the broken tags
 1. I then when through the HTML semantics and updated as necessary
 
+### Final Page
+After I refractored the code and double-checked my work, 
