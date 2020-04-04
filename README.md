@@ -5,8 +5,7 @@ The assignment was to refractor code for an existing company website. To make su
 
 ## The inital webpage
 This is what the inital webpage looked like:
-![Image of Inital Webpage] 
-(file:///Users/ffejcaplan/Desktop/Screen%20Shot%202020-04-04%20at%203.44.05%20PM.png)
+![Image of Inital Webpage] (file:///Users/ffejcaplan/Desktop/Screen%20Shot%202020-04-04%20at%203.44.05%20PM.png)
 
 ### My Step-by-Step
 1. I started by creating a reset.css and and a style.css stylesheets
