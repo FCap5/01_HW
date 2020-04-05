@@ -15,4 +15,4 @@ This is what the inital webpage looked like:
 1. I then when through the HTML semantics and updated as necessary
 
 ### Final Page
-After I refractored the code and double-checked my work, 
+In the final page, you will see that the different sections are appropriately laid out to match the standards provided. Each individual topic is given an independent section and a corrseponding image. 
